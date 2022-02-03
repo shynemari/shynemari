@@ -5,7 +5,7 @@
 🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌. <br/>
 <br/>
 🚀 Open for project collaboration in FinTech, Web3.0, and Sustainable tech.    <br/>
-📫  [shyne@ailalay.com](mailto:shyne@ailalay.com.?subject=[GitHub]%20Project%20Collab)<br/>
+📫 <a href="mailto:shyne@ailalay.com">Send me a DM</a>
 
 <!--
 **shynemari/shynemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
