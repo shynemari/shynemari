@@ -1,11 +1,11 @@
-### Hi there 👋 I'm ✨ Shyne ✨
-
-- 🌱 Working on practical and efficient solutions for real-world issues 🛰️
-- 🌱 Sustainability Advocate 🌊 🌏 
-- 🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌
-
-- 🚀 Open for project collaboration in FinTech, Web3.0, and Sustainable tech 
-- 📫 shyne@ailalay.com
+### Hi there 👋 I'm ✨ Shyne ✨. 
+<br/>
+🌱 Working on practical and efficient solutions for real-world issues 🛰️.<br/> 
+🌱 Sustainability Advocate 🌊 🌏.      <br/>
+🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌. <br/>
+<br/>
+🚀 Open for project collaboration in FinTech, Web3.0, and Sustainable tech.    <br/>
+📫 shyne@ailalay.com. <br/>
 
 <!--
 **shynemari/shynemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
