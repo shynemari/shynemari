@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm ✨ Shyne ✨. 
 <br/>
-🌱 Working on practical and efficient solutions for real-world issues 🛰️.<br/> 
+🌱 Building practical and efficient solutions that matter 🛰️.<br/> 
 🌱 Sustainability Advocate 🌊 🌏.      <br/>
 🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌. <br/>
 <br/>
