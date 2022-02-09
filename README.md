@@ -7,6 +7,7 @@
 🌱 Sustainability Advocate 🌊 🌏.      <br/>
 🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌. <br/>
 <br/>
+
 🚀 Open for project collaboration in FinTech, Web3.0, and Sustainable tech.    <br/>
 📫 <a href="mailto:shyne@ailalay.com">Send me a DM</a>
 
