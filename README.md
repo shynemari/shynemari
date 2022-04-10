@@ -1,6 +1,6 @@
 ### Hi there 👋. 
   
-### I'm ✨ Shyne ✨ a Full-stack developer. Currently working as a **CTO** of [Ailalay](https://ailalay.com) :shipit:  
+### I'm ✨ Shyne ✨  :shipit:  
 
 
 🌱 Building practical and efficient solutions that matter 🛰️.<br/> 
