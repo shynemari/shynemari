@@ -4,7 +4,7 @@
 
 
 🌱 Building practical and efficient solutions that matter 🛰️.<br/> 
-🌱 Sustainability Advocate 🌊 🌏.      <br/>
+🌱 Sustainability Advocate 🌊 🌏     <br/>
 🌱 Interested in 🤖 AI x Arts  🎨🎼  Blockchain⛓ Crypto 💠🙌  NFT🎨| Web 3.0 and Metaverses 🌌. <br/>
 <br/>
 
