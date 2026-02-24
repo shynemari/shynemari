@@ -1,6 +1,4 @@
-### Hi there 👋. 
-  
-### I'm ✨ Shyne ✨  :shipit:  
+  ### I'm ✨ Shyne ✨  :shipit:  
 
 
 Senior Full Stack Engineer and Cloud-Native Architect with 14 years of experience building scalable SaaS platforms and distributed systems.
@@ -26,7 +24,6 @@ I have led technical architecture decisions as a CTO and enjoy building pragmati
 
 ---
 Open to remote senior engineering and architecture roles.
-📫 <a href="mailto:shyne@ailalay.com">Send me a DM</a>
 
 ![](https://komarev.com/ghpvc/?username=shynemari&color=green)
 <!--
